@@ -1,2 +1,2 @@
-# bhavyaj-markSeven-SignLang
- Translate English into Sign Language
+# bhavyaj-markSeven
+ Translate English into Dothraki from Game of Thrones
