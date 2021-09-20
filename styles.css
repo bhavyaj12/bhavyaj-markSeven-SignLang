@@ -19,6 +19,8 @@ nav {
     background-color: var(--primary);
     text-align: center;
     margin-top: 0;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
 }
 
 nav div {
@@ -78,6 +80,8 @@ footer {
     position: relative;
     width: 100%;
     padding: 1rem;    
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
 }
 
 footer div {
